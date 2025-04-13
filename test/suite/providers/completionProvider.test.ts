@@ -1,4 +1,4 @@
-import * as assert from 'assert';
+0import * as assert from 'assert';
 import * as vsc from 'vscode';
 import { paramHintTrigger, PythonType } from "../../../src/python";
 import { CompletionProvider, ParamHintCompletionProvider } from "../../../src/completionProvider";
